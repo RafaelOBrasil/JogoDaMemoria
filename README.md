@@ -1,1 +1,1 @@
-# JogoDaMemoria
+# JogoDaMemoria desenvolvido em JS para o DIO.ME BootCamp Ri Happy
